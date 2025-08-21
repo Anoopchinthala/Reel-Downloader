@@ -40,10 +40,13 @@ To run this project locally:
    git clone https://github.com/Anoopchinthala/Reel-Downloader.git
 
 2. **Install the required dependencies:**
+    ```bash
     pip install -r requirements.txt
 
 3. **Run the project:**
+    ```bash
     python Main.py
 
 4. **Run the tests (optional):**
+    ```bash
     pytest test_project.py
